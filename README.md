@@ -45,6 +45,9 @@ This is a checklist of usability items that dapp product teams can use as a quic
 
 - [ ] Tell users the overall state of the network (e.g. red/yellow/green notificaton)
 
+# Resources
+
+- Ryan Angilly's slides on Dapp Usability from ETHDenver 2019: https://docs.google.com/presentation/d/1vHNpSVCDwIbdpjA-zlBvSvsCjK7uikcLvaCcz3PglqQ/edit?usp=sharing
 
 
 # Contributions
