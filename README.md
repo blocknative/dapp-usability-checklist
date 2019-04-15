@@ -6,7 +6,7 @@ This is a checklist of usability items that dapp product teams can use as a quic
 ## Onboarding Support
 
 - [ ] If you decide to not support mobile browsers, ensure you are checking for this and warning users of mobile browsers
-- [ ] Warn the user when they are in an unsupported browswer
+- [ ] Warn the user when they are in an unsupported browser
 - [ ] Warn the user when they do not have a wallet -- e.g. MetaMask -- installed
 - [ ] Tell the user they need to unlock their wallet
 - [ ] Tell the user they need to authorize their wallet (EIP-1102)
